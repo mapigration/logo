@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: manuale-regular
+font link: https://fonts.google.com/specimen/Manuale
+font author: Omnibus Type
+font author site: http://www.omnibus-type.com/
+
+
+icon designer: Gregor Cresnar
+icon designer link: /grega.cresnar
+        
+
+fontColor: {"gradient-0":"#999899","gradient-1":"#425B8B"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#999899","gradient-1":"#425B8B"}
+
+      
